@@ -8,7 +8,7 @@
 
 4- Subir o container > Executar o comando "docker run -p 8080:8080 jpzanini/conversao-temperatura:tag"
 
-#Passos para subir o container no Kubernetes
+#Passos para criar o container da aplicação e subir no cluster k8s
 
 1- clonar o repositorio para a sua maquina local (git clone)
 
